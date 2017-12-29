@@ -1,0 +1,5 @@
+# Sourcefabric package repository
+deb http://apt.sourcefabric.org/ squeeze main
+
+# Debian squeeze backports repository, not needed for Ubuntu or Debian wheezy
+#deb http://backports.debian.org/debian-backports squeeze-backports main
